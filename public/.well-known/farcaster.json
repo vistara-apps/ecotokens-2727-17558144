@@ -10,14 +10,14 @@
     "subtitle": "Built with Zara",
     "description": "EcoTokens is a Base Mini App built with Zara.",
     "iconUrl": "https://0co.to/images/zara-2.png",
-    "homeUrl": "https://27274e69-b86f-4784-91f7-9a148e82ecb5.vistara.dev",
-    "splashImageUrl": "https://dummyimage.com/200x200/0a0b0d/ffffff.png&text=Splash",
+    "homeUrl": "https://27274e69b86f478491f79a148e82ecb5-kzky-3q5zwvmwz-vistara.vercel.app",
+    "splashImageUrl": "https://27274e69b86f478491f79a148e82ecb5-kzky-3q5zwvmwz-vistara.vercel.app/splash.png",
     "splashBackgroundColor": "#000000",
-    "heroImageUrl": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=Hero",
+    "heroImageUrl": "https://27274e69b86f478491f79a148e82ecb5-kzky-3q5zwvmwz-vistara.vercel.app/image.png",
     "tagline": "EcoTokens",
     "screenshotUrls": [
-      "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=Shot1",
-      "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=Shot2"
+      "https://27274e69b86f478491f79a148e82ecb5-kzky-3q5zwvmwz-vistara.vercel.app/screenshot.png",
+      "https://27274e69b86f478491f79a148e82ecb5-kzky-3q5zwvmwz-vistara.vercel.app/screenshot.png"
     ],
     "primaryCategory": "social",
     "tags": [
@@ -25,6 +25,6 @@
       "miniapp",
       "onchainkit"
     ],
-    "webhookUrl": "https://27274e69-b86f-4784-91f7-9a148e82ecb5.vistara.dev/api/webhook"
+    "webhookUrl": "https://27274e69b86f478491f79a148e82ecb5-kzky-3q5zwvmwz-vistara.vercel.app/api/webhook"
   }
 }
